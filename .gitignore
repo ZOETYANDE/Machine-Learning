@@ -1,2 +1,6 @@
 .venv
 Datasets
+Data
+*.csv
+*.jpg
+*.pkl
